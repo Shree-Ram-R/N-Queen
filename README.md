@@ -20,7 +20,7 @@ Run the program with an integer N (size of the chessboard).
 The program will output all possible valid solutions, displaying the placement of queens on the board for each configuration.
 Usage Example:
 
-n = 8  # Size of the chessboard
+n = 4  # Size of the chessboard
 solveNQueens(n)
 
 ### Technologies Used:
